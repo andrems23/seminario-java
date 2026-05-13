@@ -50,12 +50,13 @@ Algoritmos mais eficientes e utilizados em aplicações reais:
 ## Estrutura do Projeto
 
 ```bash
-seminario-java/
-│── src/
-│   ├── Recursividade.java
-│   ├── MetodosFracos.java
-│   ├── MetodosFortes.java
-│── README.md
+SEMINARIO JAVA/
+│
+├── imagens/
+├── metodos/
+├── Algoritmos de Ordenação e Big O (1).pptx
+├── metodosfortes.java
+└── metodosfracos.java
 ```
 
 ## Como Executar
